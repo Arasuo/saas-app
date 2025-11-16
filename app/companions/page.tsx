@@ -1,5 +1,5 @@
 const CompanionsLibrary = () => {
-  return <div></div>;
+  return <div>Companions</div>;
 };
 
 export default CompanionsLibrary;

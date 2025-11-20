@@ -11,6 +11,7 @@ import {
   UserButton,
 } from "@clerk/nextjs";
 
+export const dynamic = "force-dynamic";
 const bricolage = Bricolage_Grotesque({
   variable: "--font-bricolage",
   subsets: ["latin"],
